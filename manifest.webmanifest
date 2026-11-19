@@ -1,0 +1,17 @@
+{
+  "name": "Campo GPS",
+  "short_name": "Campo GPS",
+  "description": "Guida GPS e mappa di copertura per il trattore",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1a12",
+  "theme_color": "#0f1a12",
+  "lang": "it",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
